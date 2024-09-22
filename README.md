@@ -97,4 +97,3 @@ Given the dynamic nature of the content and the need to interact with pagination
     -   The scraper relies on the current HTML structure of GoodSchools.com.au. Changes to the site's layout could break the scraper.
     -   **Improvement**: Implement more flexible selectors and consider using XPath expressions.
 
-* * * * *
